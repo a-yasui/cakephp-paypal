@@ -2,7 +2,7 @@
 
 ### Requirements
 
-* CakePHP 2.0.X
+* CakePHP 2.2.X
 * A PayPal Website Payments Pro account
 * A API username, password and signature (From PayPal -> Profile -> API Settings -> Signature)
 * A valid SSL certificate
